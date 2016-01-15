@@ -1,6 +1,6 @@
 body {
 	font-family: 'Muli', sans-serif;
-	
+
 }
 
 .header {
@@ -11,7 +11,7 @@ body {
 
 .header img {
 	height: 300px;
-	margin-left: 200px;
+	margin-left: 400px;
 	margin-top: 60px;
 }
 
@@ -20,7 +20,7 @@ body {
 	height: 50px;
 	margin-top: 80px;
 	width: 150px;
-	margin-right: 280px;
+	margin-right: 600px;
 }
 
 .book h1 {
